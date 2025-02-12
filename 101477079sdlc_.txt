@@ -1,0 +1,4 @@
+DevOps is an important thing to learn because it helps bridge the gap between development and
+it operations.
+It helps because you can deploy applications faster using automation.
+DevOps helps bugs get fixed faster and improves the user experience.
