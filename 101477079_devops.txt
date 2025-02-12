@@ -1,0 +1,6 @@
+The DevOps course is important because in the industry people need to know the practicies
+and priciples of DevOps. Stuff like CI/CD piples is vital to know, same with stuff like
+Git and version control.
+
+Assignments like this one helps to foster collaboration and build skills leading and participating
+in a team.
