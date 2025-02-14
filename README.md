@@ -6,7 +6,8 @@
 ## Project Description
 
 ## Instructions
-
+In groups, we will collaborate remotely using CI and branches. Consistently committing our changes
+on our own branches, of which we maintain a proper branch naming scheme. Until finally, merging into a final "main" build.
 ## CI/CD Details/Pipeline
 
 ## Branching strategy
